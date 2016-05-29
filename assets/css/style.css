@@ -1,0 +1,11 @@
+#header {
+    height: 100px;
+    background-color: red;
+    text-align: center;
+    font-size: 58px;
+}
+
+#secondheader {
+	font-size: 48px;
+	text-align: center;
+}
